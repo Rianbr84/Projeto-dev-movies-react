@@ -2,13 +2,6 @@
 
 Uma aplicação web inspirada na Netflix, desenvolvida com React, que consome dados da API do TMDB para exibir filmes e séries populares, detalhes completos, trailers, elenco e recomendações.
 
-## 📸 Preview
-
-<!-- Adicione aqui uma imagem ou GIF do projeto -->
-![Preview do Projeto](./src/assets/preview.png)
-
----
-
 ## 🚀 Funcionalidades
 
 - 🎥 Exibição do filme em destaque na página inicial
@@ -167,7 +160,7 @@ Este projeto foi desenvolvido com foco em aprendizado e prática de:
 
 ## 👨‍💻 Desenvolvedor
 
-Desenvolvido por **Rian**.
+Desenvolvido por **Rian Lucas**.
 
 Apaixonado por tecnologia, programação e desenvolvimento web, sempre buscando criar aplicações modernas, intuitivas e escaláveis.
 
